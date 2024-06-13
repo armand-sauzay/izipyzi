@@ -1,4 +1,4 @@
-from pybox.time import time_function_by_tries, time_function_by_duration
+from izipyzi.time import time_function_by_tries, time_function_by_duration
 import pytest
 
 

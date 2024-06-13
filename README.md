@@ -1,4 +1,4 @@
-# pybox
+# izipyzi
 
 ## Project files
 
