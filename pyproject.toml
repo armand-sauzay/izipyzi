@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "pybox"
+name = "izipyzi"
 version = "0.1.0"
 description = ""
 authors = ["Armand Sauzay <sauzayarmand@gmail.com>"]
 readme = "README.md"
-packages = [{include = "pybox"}]
+packages = [{include = "izipyzi"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4"
